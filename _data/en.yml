@@ -1,0 +1,13 @@
+title:
+  main: "InnerEcho"
+  subtitle: "The echo arises from the soul."
+description: "In the modern world, the soul has been abandoned, but I am reclaiming my own."
+author: "Felix Chang"
+nav:
+  home: "Home"
+  about: "About"
+  alternative_home: "zh"
+post:
+  author: "Author"
+  date: "Published on"
+  date_format: "%B %d, %Y"
